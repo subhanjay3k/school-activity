@@ -1,0 +1,26 @@
+#contact iframe
+{
+    width: 100%;
+}
+.school_MainDiv {
+border:1px solid black ;
+}
+.school_MainDiv{
+
+    width:100%;
+}
+.school_MainDiv p, .school_MainDiv h5  {
+margin:20px;
+    
+}
+.travel_mainDiv{
+    border:1px solid rgb(174, 150, 150)60, 154, 154) ;
+    }
+    .travel_mainDiv img{
+    
+        width:100%;
+    }
+    .travel_mainDiv p, .travel_mainDiv p  {
+    margin:20px;
+        
+    }
